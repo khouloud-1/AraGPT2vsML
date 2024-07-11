@@ -21,7 +21,7 @@ word-wrap:break-word'>
 <div class=WordSection1>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;line-height:
-normal'><b><span style='font-size:24.0pt;mso-bidi-font-family:Calibri;
+normal'><b><span style='font-size:40.0pt;mso-bidi-font-family:Calibri;
 mso-bidi-theme-font:minor-latin'>HATC: fine-tuned AraGPT2 vs ML algo</span></b></p>
 
 
